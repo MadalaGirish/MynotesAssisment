@@ -33,4 +33,5 @@ class registration:
 
     print("mango")
     print("p")
+    print("oooooo")
 
