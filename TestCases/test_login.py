@@ -4,9 +4,9 @@ import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-from Pages.Login_page import Login
-from Utilites import Xlutilites
-from Utilites.logger_file import LogGen
+from MynotesAssisment.Pages.Login_page import Login
+from MynotesAssisment.Utilites import Xlutilites
+from MynotesAssisment.Utilites.logger_file import LogGen
 
 
 class Test_003_Registration:

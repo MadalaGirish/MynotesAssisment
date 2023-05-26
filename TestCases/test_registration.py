@@ -1,9 +1,10 @@
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-from Pages.Regestration_page import registration
-from Utilites import Xlutilites
-from Utilites.logger_file import LogGen
+
+from MynotesAssisment.Pages.Regestration_page import registration
+from MynotesAssisment.Utilites import Xlutilites
+from MynotesAssisment.Utilites.logger_file import LogGen
 
 
 class Test_001_Registration:
