@@ -31,5 +31,6 @@ class registration:
     def submit(self):
         self.driver.find_element(By.XPATH, self.button_register).click()
 
-
+    print("mango")
+    print("p")
 

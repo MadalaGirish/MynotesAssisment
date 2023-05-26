@@ -26,3 +26,4 @@ class Login:
 
     def logout(self):
         self.driver.find_element(By.XPATH, self.logout_btn).click()
+    print("mango")

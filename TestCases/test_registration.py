@@ -45,3 +45,4 @@ class Test_001_Registration:
                 self.driver.save_screenshot("..\\Screenshots\\" + "test_register.png")
                 assert False
 
+            print("mango")

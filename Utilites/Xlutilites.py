@@ -24,3 +24,4 @@ def WriteData(file, sheetName, rownum, columnno, data):
     sheet = workbook[sheetName]
     sheet.cell(rownum, columnno, ).value = data
     workbook.save(file)
+    print("mango")

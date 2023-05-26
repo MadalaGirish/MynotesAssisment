@@ -14,3 +14,4 @@ def setup(browser):
         driver = webdriver.Firefox()
         print("Launching firefox browser.........")
     return driver
+print("mango")
