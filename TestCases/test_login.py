@@ -4,16 +4,17 @@ import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-from MynotesAssisment.Pages.Login_page import Login
-from MynotesAssisment.Utilites import Xlutilites
-from MynotesAssisment.Utilites.logger_file import LogGen
+from Pages.Login_page import Login
+from Utilites import Xlutilites
+from Utilites.logger_file import LogGen
 
 
 class Test_003_Registration:
     Base_url = "https://practice.expandtesting.com/notes/app"
-    path = "..//TestData/Data.xlsx"
+    path = ".//TestData/Data.xlsx"
     logger = LogGen.loggen()
 
+    @pytest.mark.regression
     def test_login(self):
         self.driver = webdriver.Chrome()
         self.logger.info("****Opening URL****")
@@ -45,5 +46,3 @@ class Test_003_Registration:
                 print("Logout Failed")
                 self.driver.save_screenshot("..\\Screenshots\\" + "test_login.png")
                 assert False
-                #
-            print("mango")

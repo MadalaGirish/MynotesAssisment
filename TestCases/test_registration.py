@@ -1,16 +1,19 @@
 import time
+
+import pytest
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
-from MynotesAssisment.Pages.Regestration_page import registration
-from MynotesAssisment.Utilites import Xlutilites
-from MynotesAssisment.Utilites.logger_file import LogGen
+from Pages.Regestration_page import registration
+from Utilites import Xlutilites
+from Utilites.logger_file import LogGen
 
 
 class Test_001_Registration:
     Base_url = "https://practice.expandtesting.com/notes/app"
     path = "..//TestData/Create_account.xlsx"
     logger = LogGen.loggen()
+
 
     def test_registration(self):
         self.logger.info("************ Create Account *************** ")
@@ -45,5 +48,3 @@ class Test_001_Registration:
                 print("Registration Failed")
                 self.driver.save_screenshot("..\\Screenshots\\" + "test_register.png")
                 assert False
-
-            print("mango")
