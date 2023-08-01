@@ -1,0 +1,5 @@
+"""Strings involving the login page. i.e. usernames, passwords, and URLS."""
+TEST_USER = "standard_user"
+STANDARD_USER = "standard_user"
+STANDARD_PASSWORD = "secret_sauce"
+URL = "https://www.saucedemo.com"

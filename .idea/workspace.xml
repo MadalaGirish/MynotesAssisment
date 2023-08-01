@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9483bf70-a49b-4705-9175-412df78443c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/Add_to_product_Page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pages/LoginCreds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCases/test_using_fixtures.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MainAssesment.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MainAssesment.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Add_note_home.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Login_page.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/Login_page.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/Regestration_page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/test_login.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/test_register.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/test_register_account.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/pytest.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_addhome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCases/test_registration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Create_account.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/Data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/TestData/Data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestData/addhome.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilites/Xlutilites.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilites/Xlutilites.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilites/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestCases/conftest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilites/logger_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilites/customLogger.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2TNHREyh1DtMTcuk2M6CZksmoYD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for test_checkout.Test_add_to_cart">
+    <configuration name="pytest for test_addtocart.Test_add_to_cart" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="MainAssesment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_addtocart.Test_add_to_cart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_checkout.Test_add_to_cart" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="MainAssesment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_checkout.Test_add_to_cart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_checkout.Test_add_to_cart.test_add_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="MainAssesment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_checkout.Test_add_to_cart.test_add_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_validate_urls.Test_add_to_cart" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="MainAssesment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_validate_urls.Test_add_to_cart&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_validate_urls.Test_add_to_cart.test_add_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="MainAssesment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_validate_urls.Test_add_to_cart.test_add_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_addtocart.Test_add_to_cart" />
+      <item itemvalue="Python tests.pytest for test_validate_urls.Test_add_to_cart.test_add_login" />
+      <item itemvalue="Python tests.pytest for test_validate_urls.Test_add_to_cart" />
+      <item itemvalue="Python tests.pytest for test_checkout.Test_add_to_cart" />
+      <item itemvalue="Python tests.pytest for test_checkout.Test_add_to_cart.test_add_login" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for test_checkout.Test_add_to_cart" />
+        <item itemvalue="Python tests.pytest for test_checkout.Test_add_to_cart.test_add_login" />
+        <item itemvalue="Python tests.pytest for test_validate_urls.Test_add_to_cart.test_add_login" />
+        <item itemvalue="Python tests.pytest for test_validate_urls.Test_add_to_cart" />
+        <item itemvalue="Python tests.pytest for test_addtocart.Test_add_to_cart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9483bf70-a49b-4705-9175-412df78443c0" name="Changes" comment="" />
+      <created>1690876607761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1690876607761</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
